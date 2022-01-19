@@ -1,0 +1,1 @@
+from .db_size_analysis_1c_psql import create_db_size_analysis
